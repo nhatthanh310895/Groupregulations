@@ -11,28 +11,24 @@ Những điều mà bạn cần biết nếu muốn tham gia [Drive We Share](ht
 
 Các công cụ, tài khoản liệt kê dưới đây được đóng góp bởi các thành viên trong nhóm:
 
-bit.ly
----------------------------
-Acc:
-tk: nhatthanh310895@gmail.com
-mk: thanh123
+1. [Bitly Shorten Link ](bit.ly)
+2. [Fake Email](1. mytemp.email) 
+3. [Fake Phone number](textnow.com)
+4. [Multi Clouds Manager](multcloud.com)
+5. Dùng chrome [đăng nhập] tài khoản này để get extensions:  arnitahammock@my.smccd.edu | zezf4019
+![](http://i.imgur.com/0bk0HBq.png)
+![](http://i.imgur.com/ZXxrsxI.png)
 
-______________________________________________________________    
-
-Fake Email & Phone number:
----------------------------
-1. mytemp.email
-2. textnow.com
 
 
 ______________________________________________________________    
 
 
-# Đăng nhập để get extensions:
+# 
 
-arnitahammock@my.smccd.edu | zezf4019
 
-#  Quy trình 2: udemy rút gọn:
+
+# Lấy toán bộ khoá học từ một trang cá nhân như Udemy
 
 
 A. Get labs
