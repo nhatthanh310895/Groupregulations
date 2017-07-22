@@ -1,6 +1,6 @@
 # NỘI QUY NHÓM Drive We Share
 
-các bạn vui lòng **đọc kỹ nội quy** trước khi tham gia nhóm.
+ác bạn vui lòng **đọc kỹ nội quy** trước khi tham gia nhóm.
 
 
 ## NỘI QUY ĐĂNG BÀI VIẾT
