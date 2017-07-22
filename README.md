@@ -15,7 +15,7 @@ Các công cụ, tài khoản liệt kê dưới đây được đóng góp bở
 2. [Fake Email](mytemp.email) 
 3. [Fake Phone number](textnow.com)
 4. [Multi Clouds Manager](multcloud.com)
-5. Dùng chrome [đăng nhập] tài khoản này để get extensions:  arnitahammock@my.smccd.edu | zezf4019
+5. Dùng chrome [đăng nhập] tài khoản này để get extensions:  http://anlink.top/v/6413x23323/ ( mk: driveweshare )
 ![](http://i.imgur.com/0bk0HBq.png)
 ![](http://i.imgur.com/ZXxrsxI.png)
 
