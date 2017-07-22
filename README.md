@@ -30,8 +30,7 @@ ______________________________________________________________
 
 # Đăng nhập để get extensions:
 
-arnitahammock@my.smccd.edu
-zezf4019
+arnitahammock@my.smccd.edu | zezf4019
 
 #  Quy trình 2: udemy rút gọn:
 
