@@ -12,7 +12,7 @@ Những điều mà bạn cần biết nếu muốn tham gia [Drive We Share](ht
 Các công cụ, tài khoản liệt kê dưới đây được đóng góp bởi các thành viên trong nhóm:
 
 1. [Bitly Shorten Link ](bit.ly)
-2. [Fake Email](1. mytemp.email) 
+2. [Fake Email](mytemp.email) 
 3. [Fake Phone number](textnow.com)
 4. [Multi Clouds Manager](multcloud.com)
 5. Dùng chrome [đăng nhập] tài khoản này để get extensions:  arnitahammock@my.smccd.edu | zezf4019
